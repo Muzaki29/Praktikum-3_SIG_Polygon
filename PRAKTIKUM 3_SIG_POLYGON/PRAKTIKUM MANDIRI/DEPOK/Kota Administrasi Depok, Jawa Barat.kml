@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kota Administrasi Depok, Jawa Barat</name>
+    <NetworkLink>
+      <name>PRAKTIKUM SIG 3</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1P-9t-frc1DmV8W7O91VdzXk5Uh0I5s0&lid=brXjBlAxsc0]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
